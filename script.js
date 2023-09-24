@@ -26,4 +26,4 @@ console.log(x);
 
 //Challenge 4: Create an arrow function for adding two numbers. Console log the value.
 var add = (x, y) => x+y;
-console.log(add(12, 2));
+console.log(add(12, 15));
